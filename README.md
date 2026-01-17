@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Portfolio Website
 
 ## Introduction
 This is a simple personal portfolio website built using **HTML** and **CSS**. It showcases my work and provides a way for visitors to get in touch with me. The website is designed to be clean, responsive, and easy to navigate.
@@ -7,7 +7,9 @@ This is a simple personal portfolio website built using **HTML** and **CSS**. It
 - **Home:** An overview of who I am, my skills, and my projects.
 - **Contact:** A page where visitors can find my contact information and reach out to me directly.
 
-The website demonstrates my foundational skills in web development and my ability to create a functional and visually appealing web presence.
+## Technologies Used
+- **HTML** – for structuring the web pages
+- **CSS** – for styling and layout
 
 ## Live Demo
 Check out the live website here: [link]
