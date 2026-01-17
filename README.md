@@ -13,8 +13,8 @@ The main purpose of this project is to practice web development fundamentals suc
 🔗 Visit the website:[link]
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Project Status
 This project is still under development. More sections like About, Projects, and Skills will be added in the future.
